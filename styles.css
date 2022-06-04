@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+html 
+{
+    font-size: 10px;
+}
+
+body 
+{
+    font-family: Roboto, 'Segoe Ui', Arial;
+    font-size: 1.6rem;
+    text-align: center;
+    background-color: #292323;
+    color: #fff;
+}
+
+h1 
+{
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+h2
+{
+    font-size: 3.25rem;
+}
+
+a
+{
+    color: #477ca7;
+}
+
+a:visited 
+{
+    color: #74638f
+}
+
+#main 
+{
+    border-radius: 5px;
+    background-color: #333639;
+    padding-bottom: 5px;
+}
+
+#tribute-info
+{
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+#image
+{
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#img-div
+{
+    background-color: #242729;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+#img-caption
+{
+    margin: 15px 0 5px 0;
+}
+
+ul 
+{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li 
+{
+    margin: 16px 0;
+}
+
+.headline
+{
+    margin: 50px 0;
+    text-align: center;
+}
+
+blockquote
+{
+    font-style: italic;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+@media (max-width: 460px) 
+{
+    h1 
+    {
+        font-size: 3.5rem;
+    }
+
+    #main 
+    {
+        margin: 0;
+    }
+
+    #img-caption 
+    {
+        font-size: 1.4rem;
+    }
+}
