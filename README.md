@@ -1,6 +1,6 @@
 ## Homenagem a Carlos Chagas (Tributo)
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Carlos_Chagas.png" width="500" alt="Gex Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Carlos_Chagas.png" width="400" alt="Gex Logo">
 </h1>
 Homenagem a Carlos Chagas feito em HTML e CSS puro.
 
